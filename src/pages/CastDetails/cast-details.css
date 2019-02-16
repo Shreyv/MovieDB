@@ -14,3 +14,7 @@
 .cast-detail-profile {
     padding: 5px;
 }
+
+.cast-detail-profile:hover{
+    cursor: pointer;
+}
